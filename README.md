@@ -10,7 +10,7 @@ link [Click Here](http://ShiraishiKakuya.github.io/WebAnimationSketches/GenericP
 |---|---|
 |![](https://raw.githubusercontent.com/ShiraishiKakuya/WebAnimationSketches/master/GenericPoints/img/01.png)|![](https://raw.githubusercontent.com/ShiraishiKakuya/WebAnimationSketches/master/GenericPoints/img/02.png)|
 
-
+-
 
 - __Rhombus__  
 link [Click Here](http://ShiraishiKakuya.github.io/WebAnimationSketches/GenericPoints)  
