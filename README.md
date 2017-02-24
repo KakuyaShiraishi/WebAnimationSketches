@@ -13,7 +13,7 @@ link [Click Here](http://ShiraishiKakuya.github.io/WebAnimationSketches/GenericP
 -
 
 - __Rhombus__  
-link [Click Here](http://ShiraishiKakuya.github.io/WebAnimationSketches/GenericPoints)  
+link [Click Here](http://ShiraishiKakuya.github.io/WebAnimationSketches/Rhombus)  
 
 |pattern1|pattern2|
 |---|---|
